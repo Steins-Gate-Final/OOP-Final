@@ -5,7 +5,7 @@ Ala-Too International University- Student Data system
 
 ## Project Description
 
-This GUI is created with JavaFX. A project where there are several buttons for adding and receiving data from text files. There is also a JUnit Test class, a parent class and it's child class. The Student class inherits the Person Class.  
+This GUI was created with JavaFX. A project where there are several buttons for adding and receiving data from MYSQL database.
 
 ### Jar File
 
