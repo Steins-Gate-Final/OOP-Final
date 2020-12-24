@@ -43,5 +43,27 @@ java --module-path "%YOUR JAVAFX LIB%" --add-modules javafx.controls,javafx.fxml
 
 <img src="https://user-images.githubusercontent.com/65071516/103064594-90d70900-45de-11eb-9798-0f179078e761.png" width="500">
 
+### SQL database
+We used sql database as an external database source to store the information which we get from the user.
+
+***Database connection***
+The code below shows the connection of sql and our app.
+
+<img src="https://user-images.githubusercontent.com/65071516/103068070-8c165300-45e6-11eb-9c32-4163c47b5fea.png" width="500">
+
+***Data retriving***
+
+The code below retrives the data from the database and returns it as an observable list.
+
+<img src="https://user-images.githubusercontent.com/65071516/103068283-0646d780-45e7-11eb-92f1-202be7885993.png" width="500">
+
+***JavaFX and databse***
+
+The code below show the JavaFx table values which are retrieved from the Database.
+
+<img src="https://user-images.githubusercontent.com/65071516/103068317-1a8ad480-45e7-11eb-990a-7cdfa7ccff98.png" width="500">
+
+
+
 
 
