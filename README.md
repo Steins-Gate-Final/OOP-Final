@@ -51,6 +51,8 @@ The code below sets the JavaFX table values which were retrieved from the Databa
 
 ## Presentation
 
+> [Youtube Link](https://www.youtube.com/watch?v=Zc1NmuUMqZw)
+
 [![Youtube image thumbnail](https://img.youtube.com/vi/Zc1NmuUMqZw/0.jpg)](https://www.youtube.com/watch?v=Zc1NmuUMqZw)
 
 
