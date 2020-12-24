@@ -29,7 +29,7 @@ java --module-path "%YOUR JAVAFX LIB%" --add-modules javafx.controls,javafx.fxml
 
 *When clicked, data entered is added to the panel.*
 
-<img src="https://user-images.githubusercontent.com/65071516/103064594-90d70900-45de-11eb-9798-0f179078e761.png" width="500">
+<img src="https://user-images.githubusercontent.com/65071516/103067443-18277b00-45e5-11eb-8324-5f6b9e8f4fd2.png">
 
 ***The Update Button*** 
 
