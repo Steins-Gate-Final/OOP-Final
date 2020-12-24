@@ -7,6 +7,7 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
+import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseEvent;
 
 import javax.security.auth.Refreshable;
@@ -33,6 +34,7 @@ public class Controller implements Initializable {
     public Button delete;
     public Label lbl2;
     public TextField notf;
+    public ImageView s;
 
 
     public void initialize(URL url, ResourceBundle resourceBundle) {
