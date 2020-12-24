@@ -7,22 +7,6 @@ Ala-Too International University- Student Data system
 
 This GUI was created with JavaFX. A project where there are several buttons for adding and receiving data from MYSQL database.
 
-### Jar File
-
-JAR file location:  "out/artifacts/untitled1_jar/untitled1.jar"
-
-***To open the jar file use this command:***
-
-```
-java --module-path "%YOUR JAVAFX LIB%" --add-modules javafx.controls,javafx.fxml --add-modules javafx.base,javafx.graphics -jar %JAR LOCATION%
-```
-
-***For example in my case:***
-
-```
- Java --module-path "D:\Program Files\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml --add-modules javafx.base,javafx.graphics -jar "out\artifacts\untitled1_jar\untitled1.jar"
-```
-
 ### Below are some screen shots from the GUI;
 
 ***The Add Button*** 
