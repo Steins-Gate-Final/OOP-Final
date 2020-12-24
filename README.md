@@ -39,7 +39,7 @@ java --module-path "%YOUR JAVAFX LIB%" --add-modules javafx.controls,javafx.fxml
 
 ***The Delete Button*** 
 
-*When clicked, data entered is deleted from the panel.*
+*When clicked, data entered is deleted from the panel.As in here previously updated data is deleted*
 
 <img src="https://user-images.githubusercontent.com/65071516/103064594-90d70900-45de-11eb-9798-0f179078e761.png" width="500">
 
