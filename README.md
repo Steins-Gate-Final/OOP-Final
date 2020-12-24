@@ -59,7 +59,7 @@ The code below retrives the data from the database and returns it as an observab
 
 ***JavaFX and databse***
 
-The code below show the JavaFx table values which are retrieved from the Database.
+The code below sets the JavaFX table values which were retrieved from the Database
 
 <img src="https://user-images.githubusercontent.com/65071516/103068317-1a8ad480-45e7-11eb-990a-7cdfa7ccff98.png" width="500">
 
